@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\GrowUp\\Desktop\\demo\\Notifications Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_next.png",
+        "source": "C:\\Users\\GrowUp\\Desktop\\demo\\Notifications Demo\\app\\src\\main\\res\\drawable-hdpi\\btn_next.png"
+    },
+    {
+        "merged": "C:\\Users\\GrowUp\\Desktop\\demo\\Notifications Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_prev.png",
+        "source": "C:\\Users\\GrowUp\\Desktop\\demo\\Notifications Demo\\app\\src\\main\\res\\drawable-hdpi\\btn_prev.png"
+    },
+    {
+        "merged": "C:\\Users\\GrowUp\\Desktop\\demo\\Notifications Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_pause.png",
+        "source": "C:\\Users\\GrowUp\\Desktop\\demo\\Notifications Demo\\app\\src\\main\\res\\drawable-hdpi\\btn_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\GrowUp\\Desktop\\demo\\Notifications Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_play.png",
+        "source": "C:\\Users\\GrowUp\\Desktop\\demo\\Notifications Demo\\app\\src\\main\\res\\drawable-hdpi\\btn_play.png"
+    },
+    {
+        "merged": "C:\\Users\\GrowUp\\Desktop\\demo\\Notifications Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\GrowUp\\Desktop\\demo\\Notifications Demo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

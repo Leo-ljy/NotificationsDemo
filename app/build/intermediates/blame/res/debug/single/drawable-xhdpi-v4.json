@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\GrowUp\\Desktop\\demo\\Notifications Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\GrowUp\\Desktop\\demo\\Notifications Demo\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\GrowUp\\Desktop\\demo\\Notifications Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sing_icon.jpg",
+        "source": "C:\\Users\\GrowUp\\Desktop\\demo\\Notifications Demo\\app\\src\\main\\res\\drawable-xhdpi\\sing_icon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\GrowUp\\Desktop\\demo\\Notifications Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon.png",
+        "source": "C:\\Users\\GrowUp\\Desktop\\demo\\Notifications Demo\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    }
+]

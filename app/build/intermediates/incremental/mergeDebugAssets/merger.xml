@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\GrowUp\Desktop\demo\Notifications Demo\app\src\main\assets"><file name="cs.apk" path="C:\Users\GrowUp\Desktop\demo\Notifications Demo\app\src\main\assets\cs.apk"/></source><source path="C:\Users\GrowUp\Desktop\demo\Notifications Demo\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\GrowUp\Desktop\demo\Notifications Demo\app\src\debug\assets"/></dataSet></merger>

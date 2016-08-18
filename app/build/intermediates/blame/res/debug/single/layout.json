@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\GrowUp\\Desktop\\demo\\Notifications Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom.xml",
+        "source": "C:\\Users\\GrowUp\\Desktop\\demo\\Notifications Demo\\app\\src\\main\\res\\layout\\custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\GrowUp\\Desktop\\demo\\Notifications Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_custom_progress.xml",
+        "source": "C:\\Users\\GrowUp\\Desktop\\demo\\Notifications Demo\\app\\src\\main\\res\\layout\\view_custom_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\GrowUp\\Desktop\\demo\\Notifications Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_custom_button.xml",
+        "source": "C:\\Users\\GrowUp\\Desktop\\demo\\Notifications Demo\\app\\src\\main\\res\\layout\\view_custom_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\GrowUp\\Desktop\\demo\\Notifications Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "C:\\Users\\GrowUp\\Desktop\\demo\\Notifications Demo\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\GrowUp\\Desktop\\demo\\Notifications Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_custom.xml",
+        "source": "C:\\Users\\GrowUp\\Desktop\\demo\\Notifications Demo\\app\\src\\main\\res\\layout\\view_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\GrowUp\\Desktop\\demo\\Notifications Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\GrowUp\\Desktop\\demo\\Notifications Demo\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\GrowUp\\Desktop\\demo\\Notifications Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress.xml",
+        "source": "C:\\Users\\GrowUp\\Desktop\\demo\\Notifications Demo\\app\\src\\main\\res\\layout\\progress.xml"
+    }
+]
